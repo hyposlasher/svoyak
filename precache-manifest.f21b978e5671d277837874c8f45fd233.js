@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6d943c6dfe407853805eb557e781e64",
+    "revision": "f05be2b1d9b28ef1deba156b49560cfc",
     "url": "/svoyak/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/svoyak/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "10cc7b57a12f73290530",
+    "revision": "4d300318a7171a705627",
     "url": "/svoyak/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/svoyak/static/js/2.7627d94b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10cc7b57a12f73290530",
-    "url": "/svoyak/static/js/main.3163f1c9.chunk.js"
+    "revision": "4d300318a7171a705627",
+    "url": "/svoyak/static/js/main.3c34b440.chunk.js"
   },
   {
     "revision": "7d7059ba6c7a8913b7b0",

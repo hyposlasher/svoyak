@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/svoyak/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/svoyak/static/js/main.3163f1c9.chunk.js",
-    "main.js.map": "/svoyak/static/js/main.3163f1c9.chunk.js.map",
+    "main.js": "/svoyak/static/js/main.3c34b440.chunk.js",
+    "main.js.map": "/svoyak/static/js/main.3c34b440.chunk.js.map",
     "runtime-main.js": "/svoyak/static/js/runtime-main.7d3ccfe2.js",
     "runtime-main.js.map": "/svoyak/static/js/runtime-main.7d3ccfe2.js.map",
     "static/css/2.de424728.chunk.css": "/svoyak/static/css/2.de424728.chunk.css",
     "static/js/2.7627d94b.chunk.js": "/svoyak/static/js/2.7627d94b.chunk.js",
     "static/js/2.7627d94b.chunk.js.map": "/svoyak/static/js/2.7627d94b.chunk.js.map",
     "index.html": "/svoyak/index.html",
-    "precache-manifest.92e738848cf0d5da7e2ca0bba8ae99bd.js": "/svoyak/precache-manifest.92e738848cf0d5da7e2ca0bba8ae99bd.js",
+    "precache-manifest.f21b978e5671d277837874c8f45fd233.js": "/svoyak/precache-manifest.f21b978e5671d277837874c8f45fd233.js",
     "service-worker.js": "/svoyak/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/svoyak/static/css/2.de424728.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/svoyak/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.7627d94b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.3163f1c9.chunk.js"
+    "static/js/main.3c34b440.chunk.js"
   ]
 }
